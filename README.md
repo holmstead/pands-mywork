@@ -1,3 +1,3 @@
 # pands-mywork
 
-This repository contains a python program that displays Hello World! when it is run.
+This repository contains non-course related work during the Programming and Scripting module at ATU.
